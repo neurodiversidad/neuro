@@ -1,8 +1,9 @@
---       
+---      
 title: "Inicio"
-excerpt: ""
 sitemap: false
 permalink: /
+layout: single
+classes: wide
 ---
 
 ## Pagina de Inicia
