@@ -27,7 +27,7 @@ repository               : "oaql97/neuro" # GitHub username/repo-name e.g. "mmis
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logoneuro.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -159,7 +159,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _biblio
+  - _post
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -234,6 +234,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -243,7 +244,25 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
 
+
+category_archive: 
+  type: 
+    jekyll-archives path: /categories/ 
+  tag_archive: 
+    type: jekyll-archives 
+    path: /tags/ 
+  jekyll-archives: 
+  enabled : 
+    - categories 
+    - tags 
+  layouts: 
+    category: archive-taxonomy
+    tag : archive-taxonomy
+  permalinks : 
+    category : /categories/:name/ 
+    tag : /tags/:name/
 
 # Archives
 #  Type
@@ -255,12 +274,12 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+#category_archive:
+#  type: liquid
+#  path: /categories/
+#tag_archive:
+#  type: liquid
+#  path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -272,7 +291,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -295,3 +313,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: splash
+      author_profile: false
