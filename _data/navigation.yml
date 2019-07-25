@@ -2,8 +2,8 @@
 main:
   - title: "Proyectos"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Recursos Electronicos"
+    url: /biblio/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
