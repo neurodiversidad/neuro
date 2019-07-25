@@ -9,11 +9,9 @@ header:
   overlay_image: /assets/images/Personas1.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+    - label: "Más Información"
+      url: "/about/"
 ---
 
-## Pagina de Inicio
 
-Pagina de prueba de inicio
 
