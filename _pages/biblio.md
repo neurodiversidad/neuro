@@ -30,15 +30,27 @@ Que nos pueden ayudar a comprender el paradigma de la neurodiversidad, para eso 
 
 ## Bibliografía
 
-- ARMSTRONG, T. (2012). El poder de la neurodiversidad. Las extraordinarias capacidades que se ocultan tras el autismo, la hiperactividad, la dislexia y otras diferencias cerebrales. Buenos Aires, Paidós. [Link][Armstrong]
-- BARÓN- COHEN, S. (2010). Autismo y Síndrome de Asperger. Madrid. Alianza Editorial. [Link][Barón2010]
-- BARÓN- COHEN, S. (2012). Empatía cero. Nueva teoría de la crueldad. Madrid. Alianza Editorial. [Link][Barón2012]
-- BOGDASHINA, O. (2007) Percepción sensorial en el Autismo y Síndrome de Asperger. Experiencias sensoriales diferentes, mundos perceptivos diferentes. España, Autismo Ávila. [Link][Bogdashina]
+- ARMSTRONG, T. (2012). El poder de la neurodiversidad. Las extraordinarias capacidades que se ocultan tras el autismo, la hiperactividad, la dislexia y otras diferencias cerebrales. Buenos Aires, Paidós. [[Link]][Armstrong]
+- BARÓN- COHEN, S. (2010). Autismo y Síndrome de Asperger. Madrid. Alianza Editorial. [[Link]][Barón2010]
+- BARÓN- COHEN, S. (2012). Empatía cero. Nueva teoría de la crueldad. Madrid. Alianza Editorial. [[Link]][Barón2012]
+- BOGDASHINA, O. (2007) Percepción sensorial en el Autismo y Síndrome de Asperger. Experiencias sensoriales diferentes, mundos perceptivos diferentes. España, Autismo Ávila. [[Link]][Bogdashina]
 - MOTTRON, L. (2014). La fuerza del autismo. En: Revista Mente y Cerebro. N°64, pp: 36-41.
-- RAMACHANDRAN, V.S. (2012).  Lo que el cerebro nos dice. Los misterios de la mente humana al descubierto. Barcelona, Paidós. [Link][RAMACHANDRAN]
-- SACKS, O. (1997). Un antropólogo en Marte: Siete historias paradójicas. Bogotá. Ed. Norma. [Link][Sacks]
+- RAMACHANDRAN, V.S. (2012).  Lo que el cerebro nos dice. Los misterios de la mente humana al descubierto. Barcelona, Paidós. [[Link]][RAMACHANDRAN]
+- SACKS, O. (1997). Un antropólogo en Marte: Siete historias paradójicas. Bogotá. Ed. Norma. [[Link]][Sacks]
 - SINGER, T y KRAFT, U. (2005). Empatía: En: Revista Mente y Cerebro. N°11, pp: 60-65. 
 - WOLF, C. (2014). Debate en torno a las neuronas espejo. En: Revista Mente y Cerebro. N°65, pp: 64-67.
+
+## Novelas y otras narrativas
+- El emperador, soy yo. Una infancia en el autismo. Hugo Horiot [[Link]][Horiot]
+- El curioso incidente del perro a media noche. Mark Haddon. [(Descarga Aquí)][Curioso]
+- Nacido en un día azul. Daniel Tammet
+- Mi vida de autista. Temple Grandin
+- Una mente diferente. Peter Szatmari
+- Orix y Crake. Margaret Atwood
+- Tan fuerte, tan cerca. Jonathan Safran
+- Aquí no hay nadie. La extraordinaria autobiografía de una niña autista. Donna Williams
+- Leer la mente. El cerebro y el arte de la ficción. Jorge Volpi.
+- A flor de piel. Javier Moro
 
 <!--Links Filmografía -->
 [Adam]: https://www.youtube.com/watch?v=V9DXEblRwrY
@@ -62,3 +74,7 @@ Que nos pueden ayudar a comprender el paradigma de la neurodiversidad, para eso 
 [Bogdashina]: https://www.iberlibro.com/9788461148073/Percepci%C3%B3n-sensorial-autismo-sindrome-asperger-846114807X/plp
 [RAMACHANDRAN]: https://www.casadellibro.com/libro-lo-que-el-cerebro-nos-dice-los-misterios-de-la-mente-humana-al-d-escubierto/9788449311567/1965728
 [Sacks]: [https://www.anagrama-ed.es/libro/argumentos/un-antropologo-en-marte/9788433905406/A_190]
+
+<!--Links Novelas-->
+[Curioso]: http://asperger.org.ar/wp-content/uploads/2015/12/El-curiosos-Incidente-del-Perro-a-Medianoche-Mark-Haddon.pdf
+[Horiot]: https://www.casadellibro.com/libro-el-emperador-soy-yo-una-infancia-en-el-autismo/9788499883601/2250354
