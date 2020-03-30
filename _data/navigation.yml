@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Proyectos"
-    url: 
+  - title: "Productos"
+    url: /products/
   - title: "Recursos"
     url: /biblio/
   # - title: "Sample Posts"
