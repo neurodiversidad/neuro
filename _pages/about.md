@@ -12,7 +12,7 @@ classes: wide
 ## Objetivo
 Redefinir el sentido y significado de la educación para el reconocimiento de la diferencia considerando las distintas perspectivas de la educación inclusiva y para la diversidad, así como también las actuales demandas sociales de las que hacen parte los niños, niñas y jóvenes que habitan el espectro autista.[^1]
 
-## Justificaión 
+## Justificación 
 
 En los discursos propios de la academia e incluso en aquellos escenarios de índole coloquial, se suele hablar con reclamada suficiencia a propósito de la aceptación y el respeto a la diferencia, sin embargo,  estas pretensiones suelen quedarse tan sólo en el plano de los lugares comunes y de las buenas intenciones, por cuanto, al enfrentarnos a situaciones o sujetos que asumen y conciben la vida desde una orilla que difiere de la cultural y socialmente esperada, solemos corroborar que la sociedad humana  no se encuentra preparada para aceptar y reconocer la diferencia -cualquiera que sea- ya sea étnica y sexual o, en este caso en particular, la muy poco discutida y ampliamente desconocida: diversidad neurológica.
 
