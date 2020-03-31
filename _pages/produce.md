@@ -104,6 +104,8 @@ Teniendo en cuenta que el reconocimiento de la diferencia dentro del campo de la
 
 Link fanzine: ([Fanzine])
 
+![fanzine]({{ site.baseurl }}/assets/images/Unknown-12)
+
 <!-- Link Melocotones sin moretones-->
 [Melon]: https://drive.google.com/open?id=1FJl5HhCThLNK2yLewhTdDNADsXh8LZY1
 
