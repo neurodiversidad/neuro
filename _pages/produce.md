@@ -74,6 +74,12 @@ Este material auditivo pretende brindar una experiencia sensorial diferente rela
 
 Link del video: ([Melodía])
 
+## Rincon de la lectura
+
+Este blog ofrece una colección de audio libros compuesta por 3 narrativas cuyo fin es llevarlas al aula de una manera dinámica y divertida facilitando el acceso a nuevas maneras de aprendizaje. Pensando principalmente en todas aquellas personas que poseen algún tipo de discapacidad visual o motora, resaltando la importancia de crear herramientas inclusivas para con los niños y niñas. Elavorado por: Dajana Camargo, Yisel Rios y Lizeth Ramirez 
+
+Link del Blog: ([blog])
+
 ![Melodía]({{ site.baseurl }}/assets/images/Unknown-10)
 
 <!-- Link Melocotones sin moretones-->
@@ -100,3 +106,6 @@ Link del video: ([Melodía])
 
 <!-- Link Video Melodía -->
 [Melodía]: https://youtu.be/ZqSgt7PYkQ0
+
+<!-- Link Pagina-->
+[blog]: https://neurodiversidadrincondelectura.blogspot.com/2020/03/rincon-de-lectura.html
