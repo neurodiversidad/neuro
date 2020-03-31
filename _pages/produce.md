@@ -62,11 +62,17 @@ Link de la paguina: ([Pagina])
 
 ## Suave como caricia de tortuga 
 
-Un breve relato de la vida de Emilia una pequeña, abitante del espectro autista, que está dirigido a personas neurodivergentes. Elavorado por: Andres Rodriguez y Tatiana Luis 
+Un breve relato de la vida de Emilia una pequeña, abitante del transtorno del espectro autista, que está dirigido a personas neurodivergentes. Elavorado por: Andres Rodriguez y Tatiana Luis 
 
 Link del Cuento: [[link]]([cuento])
 
 ![cuetno]({{ site.baseurl }}/assets/images/Unknown-9)
+
+## Experiencia sensorial 
+
+Este material auditivo pretende brindar una experiencia sensorial diferente relacionada al la percepción de estímulos que medirá la hipersensibilidad de cada uno de los participantes. Es una herraminta que ayuda a conocer aspectos internos como el gusto, la personalidad, la imaginación y la tolerancia a ciertos sonidos. Va dirigido a personas Neurodiversas y neurodivergentes que habitan en el transtorno del espectro autista. Elevorado por: Daniela Pinzón
+
+Link del video: ([Melodía])
 
 <!-- Link Melocotones sin moretones-->
 [Melon]: https://drive.google.com/open?id=1FJl5HhCThLNK2yLewhTdDNADsXh8LZY1
@@ -89,3 +95,6 @@ Link del Cuento: [[link]]([cuento])
 
 <!-- Link cuento-->
 [cuento]: https://www.storyjumper.com/book/read/80226455
+
+<!-- Link Video Melodía -->
+[Melodía]: https://youtu.be/ZqSgt7PYkQ0
