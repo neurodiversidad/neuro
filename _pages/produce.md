@@ -45,7 +45,7 @@ Link de la cartilla: ([Cartilla])
 Va dirigido a las personas neurodivergentes, a los caminantes que viven con bipolaridad, al espectador, cuya mirada, termina y completa la obra. Pero sobre todo, a la estoica y eclipsada Ilda. Desde las profundidades lacustres de mi consciencia.
 Elaborado por: Julieta Valencia
 
-Link de la paguina: ([Paguina])
+Link de la paguina: ([Pagina])
 
 <!-- Link Melocotones sin moretones-->
 [Melon]: https://drive.google.com/open?id=1FJl5HhCThLNK2yLewhTdDNADsXh8LZY1
@@ -63,5 +63,5 @@ Link de la paguina: ([Paguina])
 <!-- Link Cartilla-->
 [Cartilla]: https://issuu.com/lilianariascos5/docs/voces_otras_en_nosotros
 
-<!-- Link Paguina-->
-[Paguina]: https://eclipse-nerodiversidad.webnode.com.co/eclipse/
+<!-- Link Pagina-->
+[Pagina]: https://eclipse-nerodiversidad.webnode.com.co/eclipse/
