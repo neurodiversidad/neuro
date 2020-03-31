@@ -11,7 +11,7 @@ Aqui se presentan los productos tecnologicos de los estudiantes del semestre 201
 
 ## Melocotones sin moretones
 
-Melocotones sin moretones (2019) Autor: Laima Fonseca [[Link]][Melon]
+Melocotones sin moretones (2019) Autor: Laima Fonseca. Link al Texto:[[Link]][Melon]
 
 ## Conociendo Historias
 
