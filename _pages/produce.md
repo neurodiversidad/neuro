@@ -88,7 +88,7 @@ Link del Blog: ([blog])
 
 El tener un acercamiento a espacios u experiencias nuevas puede ser un activador de conductas restringidas e incluso puede llegar a generar unas nuevas a personas que habitan algún TEA, la cartilla sensorial busca brindar información científica de los animales de la granja además de medio de textura que pueden llevar a las personas, a un reconocimiento del espacio y los animales a los cuales se van a acercar. Elaborada por: Jessica Delgado y Diego Vallejo 
 
-Link Cartilla: ([Cartilla sensorial]
+Link Cartilla: ([Cartilla sensorial])
 
 ![Cartila sensorial]({{ site.baseurl }}/assets/images/Unknown-12.jpeg)
 
@@ -96,7 +96,7 @@ Link Cartilla: ([Cartilla sensorial]
 
 En el marco de la formación y labor docente es muy importante conocer las diversas formas ser humano que pueden llegar a existir en el aula de clase, nuestra labor es reconocerlas y hacerlas partícipes de un todo, sin enmarcar un modelo ideal y excluir ni preferir unas sobre otras. Es por ello que encontramos necesario exponer el trastorno del espectro autista definida esta, como una condición que se manifiesta de diversas formas en las personas que lo habitan, estas formas se caracterizan por ser identificadas a raíz de tres características propias que son definidas desde la triada de Wing. En función de lo anterior se propondrá un producto tecnológico que a través de un juego común de la infancia como lo es el comecocos se reflejen características propias del autista por medio de una corta narración, imágenes y el ejercicio completo del juego. Elevorado por: Tania y Anderson 
 
-link del juego: ([Come cocos])
+link del juego: ([Comecocos])
 
 <!-- Link Melocotones sin moretones-->
 [Melon]: https://drive.google.com/open?id=1FJl5HhCThLNK2yLewhTdDNADsXh8LZY1
