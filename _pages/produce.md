@@ -64,7 +64,7 @@ Link de la paguina: ([Pagina])
 
 Un breve relato de la vida de Emilia, una pequeña abitante del transtorno del espectro autista, que está dirigido a personas neurodivergentes. Elaborado por: Andres Rodriguez y Tatiana Luis 
 
-Link del Cuento: [[link]]([cuento])
+Link del Cuento: [[link]][cuento]
 
 ![cuentouno]({{ site.baseurl }}/assets/images/Unknown-9)
 
