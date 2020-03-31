@@ -88,7 +88,7 @@ Link del Blog: ([blog])
 
 El tener un acercamiento a espacios u experiencias nuevas puede ser un activador de conductas restringidas e incluso puede llegar a generar unas nuevas a personas que habitan algún TEA, la cartilla sensorial busca brindar información científica de los animales de la granja además de medio de textura que pueden llevar a las personas, a un reconocimiento del espacio y los animales a los cuales se van a acercar. Elavorada por: Jessica Delgado y Diego Vallejo 
 
-Link Cartilla: ([Cartilla sensorial]9 
+Link Cartilla: ([Cartilla sensorial]
 
 ![Cartila sensorial]({{ site.baseurl }}/assets/images/Unknown-12.jpeg)
 
