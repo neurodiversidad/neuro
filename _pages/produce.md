@@ -13,7 +13,9 @@ Aqui se presentan los productos tecnologicos de los estudiantes de Neurodiversid
 
 Melocotones sin moretones (2019) Autor: Laima Fonseca. 
 Link al Texto:[[Link]][Melon]
+
 ![Melocoton]({{ site.baseurl }}/assets/images/Unknown)
+
 ## Conociendo Historias
 
 Conociendo Historias (2019) Autores: Oscar J. Prieto y Carolina Barón 
