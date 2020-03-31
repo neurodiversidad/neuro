@@ -94,9 +94,10 @@ Link Cartilla: ([Cartilla sensorial])
 
 ## Comecocos 
 
-En el marco de la formación y labor docente es muy importante conocer las diversas formas ser humano que pueden llegar a existir en el aula de clase, nuestra labor es reconocerlas y hacerlas partícipes de un todo, sin enmarcar un modelo ideal y excluir ni preferir unas sobre otras. Es por ello que encontramos necesario exponer el trastorno del espectro autista definida esta, como una condición que se manifiesta de diversas formas en las personas que lo habitan, estas formas se caracterizan por ser identificadas a raíz de tres características propias que son definidas desde la triada de Wing. En función de lo anterior se propondrá un producto tecnológico que a través de un juego común de la infancia como lo es el comecocos se reflejen características propias del autista por medio de una corta narración, imágenes y el ejercicio completo del juego. Elevorado por: Tania y Anderson 
+En el marco de la formación y labor docente es muy importante conocer las diversas formas ser humano que pueden llegar a existir en el aula de clase, nuestra labor es reconocerlas y hacerlas partícipes de un todo, sin enmarcar un modelo ideal y excluir ni preferir unas sobre otras. Es por ello que encontramos necesario exponer el trastorno del espectro autista definida esta, como una condición que se manifiesta de diversas formas en las personas que lo habitan, estas formas se caracterizan por ser identificadas a raíz de tres características propias que son definidas desde la triada de Wing. En función de lo anterior se propondrá un producto tecnológico que a través de un juego común de la infancia como lo es el comecocos se reflejen características propias del autista por medio de una corta narración, imágenes y el ejercicio completo del juego. Elevorado por: Thania y Anderson 
 
 link del juego: ([Comecocos])
+Vídeo instructivo: ([instructivo])
 
 ## Fanzine 
 
@@ -139,6 +140,9 @@ Link fanzine: ([Fanzine])
 
 <!-- Link Pagina-->
 [Comecocos]: https://drive.google.com/open?id=1h47nE9spvSdYqR3ru0zQuHTdZC41QaiJ
+
+<!-- Link Video instryctivo -->
+[instructivo]: https://www.youtube.com/watch?v=6QZJ0L7uQYs
 
 <!-- Link Pagina-->
 [Fanzine]: https://drive.google.com/open?id=1N9LXxK-ZRC5kypYlQSeFMDZyJH18hOUL
