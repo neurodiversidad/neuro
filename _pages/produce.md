@@ -25,6 +25,8 @@ Links Videos: ([Arturo]) ([Jordy])
 
 Descripción:El producto que hemos diseñado consiste en un material auditivo de experiencias personales de personajes ficticios, basados en la realidad, quienes narran acontecimientos de situaciones o eventualidades que han tenido relevancia o importancia en su vida personal y social. Por lo que el producto que presentamos va dirigido a aquellas personas interesadas en acercarse un poco más a la vida de una persona Neuro-divergente que habita el trastorno del Espectro autista, incluso para aquellos autistas que estén interesados en particularidades experimentadas por personas con su mismo trastorno. La finalidad del proyecto sin embargo es promover una cultura de no desprecio y ofrecer por lo tanto al público en general una experiencia que todos podemos compartir, evitando situaciones de exclusión y desprecio.
 
+![arturo]({{ site.baseurl }}/assets/images/Unknown-6) ![jordy]({{ site.baseurl }}/assets/images/Unknown-5)
+
 ## NeuroGame
 
 Neurogame es un minijuego en el cual podrás reconocer algunos elementos de la neurodiversidad al interactuar con distintos objetos en el ambiente. Podrás reconocer como la percepción juega un papel importante en la configuración de la realidad. Desarrollado por Marlon Hernandez.
