@@ -62,7 +62,7 @@ Link de la paguina: ([Pagina])
 
 ## Suave como caricia de tortuga 
 
-Un breve relato de la vida de Emilia una pequeña, abitante del transtorno del espectro autista, que está dirigido a personas neurodivergentes. Elavorado por: Andres Rodriguez y Tatiana Luis 
+Un breve relato de la vida de Emilia una pequeña, abitante del transtorno del espectro autista, que está dirigido a personas neurodivergentes. Elaborado por: Andres Rodriguez y Tatiana Luis 
 
 Link del Cuento: [[link]]([cuento])
 
@@ -70,7 +70,7 @@ Link del Cuento: [[link]]([cuento])
 
 ## Experiencia sensorial 
 
-Este material auditivo pretende brindar una experiencia sensorial diferente relacionada al la percepción de estímulos que medirá la hipersensibilidad de cada uno de los participantes. Es una herraminta que ayuda a conocer aspectos internos como el gusto, la personalidad, la imaginación y la tolerancia a ciertos sonidos. Va dirigido a personas Neurodiversas y neurodivergentes que habitan en el transtorno del espectro autista. Elevorado por: Daniela Pinzón
+Este material auditivo pretende brindar una experiencia sensorial diferente relacionada al la percepción de estímulos que medirá la hipersensibilidad de cada uno de los participantes. Es una herraminta que ayuda a conocer aspectos internos como el gusto, la personalidad, la imaginación y la tolerancia a ciertos sonidos. Va dirigido a personas Neurodiversas y neurodivergentes que habitan en el transtorno del espectro autista. Elaborado por: Daniela Pinzón
 
 Link del video: ([Melodía])
 
@@ -78,7 +78,7 @@ Link del video: ([Melodía])
 
 ![Melodía]({{ site.baseurl }}/assets/images/Unknown-10)
 
-Este blog ofrece una colección de audio libros compuesta por 3 narrativas cuyo fin es llevarlas al aula de una manera dinámica y divertida facilitando el acceso a nuevas maneras de aprendizaje. Pensando principalmente en todas aquellas personas que poseen algún tipo de discapacidad visual o motora, resaltando la importancia de crear herramientas inclusivas para con los niños y niñas. Elavorado por: Dajana Camargo, Yisel Rios y Lizeth Ramirez 
+Este blog ofrece una colección de audio libros compuesta por 3 narrativas cuyo fin es llevarlas al aula de una manera dinámica y divertida facilitando el acceso a nuevas maneras de aprendizaje. Pensando principalmente en todas aquellas personas que poseen algún tipo de discapacidad visual o motora, resaltando la importancia de crear herramientas inclusivas para con los niños y niñas. Elaborado por: Dajana Camargo, Yisel Rios y Lizeth Ramirez 
 
 Link del Blog: ([blog])
 
@@ -86,7 +86,7 @@ Link del Blog: ([blog])
 
 ## Un acercamiento a la granja 
 
-El tener un acercamiento a espacios u experiencias nuevas puede ser un activador de conductas restringidas e incluso puede llegar a generar unas nuevas a personas que habitan algún TEA, la cartilla sensorial busca brindar información científica de los animales de la granja además de medio de textura que pueden llevar a las personas, a un reconocimiento del espacio y los animales a los cuales se van a acercar. Elavorada por: Jessica Delgado y Diego Vallejo 
+El tener un acercamiento a espacios u experiencias nuevas puede ser un activador de conductas restringidas e incluso puede llegar a generar unas nuevas a personas que habitan algún TEA, la cartilla sensorial busca brindar información científica de los animales de la granja además de medio de textura que pueden llevar a las personas, a un reconocimiento del espacio y los animales a los cuales se van a acercar. Elaborada por: Jessica Delgado y Diego Vallejo 
 
 Link Cartilla: ([Cartilla sensorial]
 
