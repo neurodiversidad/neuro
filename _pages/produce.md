@@ -7,7 +7,7 @@ layout: single
 classes: wide
 ---
 
-Aqui se presentan los productos tecnologicos de los estudiantes del semestre 2019-03
+Aqui se presentan los productos tecnologicos de los estudiantes de Neurodiversidad en el aula del semestre 2019 III
 
 ## Melocotones sin moretones
 
@@ -28,9 +28,9 @@ Neurogame es un minijuego en el cual podrás reconocer algunos elementos de la n
 
 Link del Juego: ([Neurogame])
 
-## Material
+## Diario de reconocimiento: un paso al entendimiento de la neurodiversidad 
 
-Material Accesible en el ambito de la neurodiversidad, que puede ser rediseñado dependiendo de las necesidades de quien lo use, con respuestas prediseñadas y abiertas que permiten la libre expresión, fichas con pictogramas que permiten al usuarui la facil asimilación de significado/significante. Elaborado por: David Felipe Sanchez
+Material Accesible en el ambito de la neurodiversidad, que puede ser rediseñado dependiendo de las necesidades de quien lo use, con respuestas prediseñadas y abiertas que permiten la libre expresión, fichas con pictogramas que permiten al usuario la facil asimilación de significado/significante. Elaborado por: David Felipe Sanchez
 
 Link del Material: ([Material])
 
@@ -40,7 +40,7 @@ Esta cartilla tiene como proposito visibilisar y concientizar por medio de tres 
 
 Link de la cartilla: ([Cartilla])
 
-## Eclipse Neurodiversidad
+## Eclipse 
 
 Va dirigido a las personas neurodivergentes, a los caminantes que viven con bipolaridad, al espectador, cuya mirada, termina y completa la obra. Pero sobre todo, a la estoica y eclipsada Ilda. Desde las profundidades lacustres de mi consciencia.
 Elaborado por: Julieta Valencia
