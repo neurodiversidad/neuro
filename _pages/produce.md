@@ -39,7 +39,7 @@ Link del Juego: ([Neurogame])
 
 Material Accesible en el ambito de la neurodiversidad, que puede ser rediseñado dependiendo de las necesidades de quien lo use, con respuestas prediseñadas y abiertas que permiten la libre expresión, fichas con pictogramas que permiten al usuario la facil asimilación de significado/significante. Elaborado por: David Felipe Sanchez
 
-Link del Material: ([Material])
+Link del Diario: ([Diario])
 
 ![Diario]({{ site.baseurl }}/assets/images/Unknown-4)
 
@@ -109,7 +109,7 @@ link del juego: ([Comecocos])
 [Neurogame]: https://drive.google.com/drive/folders/14kG74IHGs-bdE1k1SBZLFviYdBr7pXIN
 
 <!-- Link Material-->
-[Material]: https://www.canva.com/design/DAD3-6f_3P8/share/preview?token=TEzeh3OonsDk20L5LMGBpw&role=EDITOR&utm_content=DAD3-6f_3P8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#1
+[Diario]: https://www.canva.com/design/DAD3-6f_3P8/share/preview?token=TEzeh3OonsDk20L5LMGBpw&role=EDITOR&utm_content=DAD3-6f_3P8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#1
 
 <!-- Link Cartilla-->
 [Cartilla]: https://issuu.com/lilianariascos5/docs/voces_otras_en_nosotros
