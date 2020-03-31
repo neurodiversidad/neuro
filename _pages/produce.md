@@ -31,6 +31,12 @@ Material Accesible en el ambito de la neurodiversidad, que puede ser rediseñado
 
 Link del Material: ([Material])
 
+## Voces Otras en Nosotros
+
+Esta cartilla tiene como proposito visibilisar y concientizar por medio de tres cuentos, sobre aquiellas formas distintas de ver, percibir y habitar el mundo, para el caso particular de este trabajo, se hace enfasis en las caracteristicas generales del transtorno autista. Elaborado por: Liliana Riascos, Brayan Cortez, Yaruk Chicangana.
+
+Link de la cartilla: ([Cartilla])
+
 <!-- Link Melocotones sin moretones-->
 [Melon]: https://drive.google.com/open?id=1FJl5HhCThLNK2yLewhTdDNADsXh8LZY1
 
@@ -43,3 +49,6 @@ Link del Material: ([Material])
 
 <!-- Link Material-->
 [Material]: https://www.canva.com/design/DAD3-6f_3P8/share/preview?token=TEzeh3OonsDk20L5LMGBpw&role=EDITOR&utm_content=DAD3-6f_3P8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#1
+
+<!-- Link Cartilla-->
+[Cartilla]: https://issuu.com/lilianariascos5/docs/voces_otras_en_nosotros
