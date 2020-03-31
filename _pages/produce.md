@@ -62,7 +62,7 @@ Link de la paguina: ([Pagina])
 
 ## Suave como caricia de tortuga 
 
-Un breve relato de la vida de Emilia una pequeña, abitante del transtorno del espectro autista, que está dirigido a personas neurodivergentes. Elaborado por: Andres Rodriguez y Tatiana Luis 
+Un breve relato de la vida de Emilia, una pequeña abitante del transtorno del espectro autista, que está dirigido a personas neurodivergentes. Elaborado por: Andres Rodriguez y Tatiana Luis 
 
 Link del Cuento: [[link]]([cuento])
 
