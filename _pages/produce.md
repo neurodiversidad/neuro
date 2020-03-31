@@ -66,7 +66,7 @@ Un breve relato de la vida de Emilia, una pequeña abitante del transtorno del e
 
 Link del Cuento: [[link]]([cuento])
 
-![cuetno]({{ site.baseurl }}/assets/images/Unknown-9)
+![cuentouno]({{ site.baseurl }}/assets/images/Unknown-9)
 
 ## Experiencia sensorial 
 
