@@ -66,6 +66,8 @@ Un breve relato de la vida de Emilia una pequeña, abitante del espectro autista
 
 Link del Cuento: [[link]]([cuento])
 
+![cuetno]({{ site.baseurl }}/assets/images/Unknown-9)
+
 <!-- Link Melocotones sin moretones-->
 [Melon]: https://drive.google.com/open?id=1FJl5HhCThLNK2yLewhTdDNADsXh8LZY1
 
