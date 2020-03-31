@@ -25,6 +25,11 @@ Neurogame es un minijuego en el cual podrás reconocer algunos elementos de la n
 
 Link del Juego: ([Neurogame])
 
+## Material
+
+Material Accesible en el ambito de la neurodiversidad, que puede ser rediseñado dependiendo de las necesidades de quien lo use, con respuestas prediseñadas y abiertas que permiten la libre expresión, fichas con pictogramas que permiten al usuarui la facil asimilación de significado/significante. Elaborado por: David Felipe Sanchez
+
+Link del Material: ([Material])
 
 <!-- Link Melocotones sin moretones-->
 [Melon]: https://drive.google.com/open?id=1FJl5HhCThLNK2yLewhTdDNADsXh8LZY1
@@ -35,3 +40,6 @@ Link del Juego: ([Neurogame])
 
 <!-- Link Neurogame-->
 [Neurogame]: https://drive.google.com/drive/folders/14kG74IHGs-bdE1k1SBZLFviYdBr7pXIN
+
+<!-- Link Material-->
+[Material]: https://www.canva.com/design/DAD3-6f_3P8/share/preview?token=TEzeh3OonsDk20L5LMGBpw&role=EDITOR&utm_content=DAD3-6f_3P8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#1
