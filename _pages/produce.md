@@ -82,7 +82,7 @@ Este blog ofrece una colección de audio libros compuesta por 3 narrativas cuyo 
 
 Link del Blog: ([blog])
 
-
+![Blog]({{ site.baseurl }}/assets/images/Unknown-11.jpeg)
 
 <!-- Link Melocotones sin moretones-->
 [Melon]: https://drive.google.com/open?id=1FJl5HhCThLNK2yLewhTdDNADsXh8LZY1
