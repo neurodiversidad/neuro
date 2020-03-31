@@ -84,6 +84,14 @@ Link del Blog: ([blog])
 
 ![Blog]({{ site.baseurl }}/assets/images/Unknown-11.jpeg)
 
+## Un acercamiento a la granja 
+
+El tener un acercamiento a espacios u experiencias nuevas puede ser un activador de conductas restringidas e incluso puede llegar a generar unas nuevas a personas que habitan algún TEA, la cartilla sensorial busca brindar información científica de los animales de la granja además de medio de textura que pueden llevar a las personas, a un reconocimiento del espacio y los animales a los cuales se van a acercar. Elavorada por: Jessica Delgado y Diego Vallejo 
+
+Link Cartilla: ([Cartilla sensorial]9 
+
+![Cartila sensorial]({{ site.baseurl }}/assets/images/Unknown-12.jpeg)
+
 <!-- Link Melocotones sin moretones-->
 [Melon]: https://drive.google.com/open?id=1FJl5HhCThLNK2yLewhTdDNADsXh8LZY1
 
@@ -111,3 +119,7 @@ Link del Blog: ([blog])
 
 <!-- Link Pagina-->
 [blog]: https://neurodiversidadrincondelectura.blogspot.com/2020/03/rincon-de-lectura.html
+
+<!-- Link Pagina-->
+[Cartilla sensorial]: https://view.genial.ly/5e82d0de05e3d20e6e1c3ea7/presentation-genially-sin-titulo
+
