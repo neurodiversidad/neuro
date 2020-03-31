@@ -60,6 +60,12 @@ Link de la paguina: ([Pagina])
 
 ![Eclipse]({{ site.baseurl }}/assets/images/Unknown-8)
 
+## Suave como caricia de tortuga 
+
+Un breve relato de la vida de Emilia una pequeña, abitante del espectro autista, que está dirigido a personas neurodivergentes. Elavorado por: Andres Rodriguez y Tatiana Luis 
+
+Link del Cuento: [[link]]([cuento])
+
 <!-- Link Melocotones sin moretones-->
 [Melon]: https://drive.google.com/open?id=1FJl5HhCThLNK2yLewhTdDNADsXh8LZY1
 
@@ -78,3 +84,6 @@ Link de la paguina: ([Pagina])
 
 <!-- Link Pagina-->
 [Pagina]: https://eclipse-nerodiversidad.webnode.com.co/eclipse/
+
+<!-- Link cuento-->
+[cuento]: https://www.storyjumper.com/book/read/80226455
