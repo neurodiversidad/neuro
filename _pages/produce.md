@@ -74,9 +74,9 @@ Este material auditivo pretende brindar una experiencia sensorial diferente rela
 
 Link del video: ([Melodía])
 
-## Rincon de la lectura
-
 ![Melodía]({{ site.baseurl }}/assets/images/Unknown-10)
+
+## Rincon de la lectura
 
 Este blog ofrece una colección de audio libros compuesta por 3 narrativas cuyo fin es llevarlas al aula de una manera dinámica y divertida facilitando el acceso a nuevas maneras de aprendizaje. Pensando principalmente en todas aquellas personas que poseen algún tipo de discapacidad visual o motora, resaltando la importancia de crear herramientas inclusivas para con los niños y niñas. Elaborado por: Dajana Camargo, Yisel Rios y Lizeth Ramirez 
 
