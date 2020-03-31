@@ -98,6 +98,12 @@ En el marco de la formación y labor docente es muy importante conocer las diver
 
 link del juego: ([Comecocos])
 
+## Fanzine 
+
+Teniendo en cuenta que el reconocimiento de la diferencia dentro del campo de la neurodiversidad y el ampliar las concepciones que hay en torno a la neurodivergencia son necesarios en los diferentes contextos en los que estamos , se hace uso del fanzine como herramienta que permita apreciar estos elementos de una forma sencilla. Elaborado por: Windy Johana Solano Mora y Camila Andrea Amaya Barrios
+
+Link fanzine: ([Fanzine])
+
 <!-- Link Melocotones sin moretones-->
 [Melon]: https://drive.google.com/open?id=1FJl5HhCThLNK2yLewhTdDNADsXh8LZY1
 
@@ -131,3 +137,6 @@ link del juego: ([Comecocos])
 
 <!-- Link Pagina-->
 [Comecocos]: https://drive.google.com/open?id=1h47nE9spvSdYqR3ru0zQuHTdZC41QaiJ
+
+<!-- Link Pagina-->
+[Fanzine]: https://drive.google.com/open?id=1N9LXxK-ZRC5kypYlQSeFMDZyJH18hOUL
