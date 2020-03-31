@@ -33,11 +33,15 @@ Neurogame es un minijuego en el cual podrás reconocer algunos elementos de la n
 
 Link del Juego: ([Neurogame])
 
+![neurogame]({{ site.baseurl }}/assets/images/Unknown-2)
+
 ## Diario de reconocimiento: un paso al entendimiento de la neurodiversidad 
 
 Material Accesible en el ambito de la neurodiversidad, que puede ser rediseñado dependiendo de las necesidades de quien lo use, con respuestas prediseñadas y abiertas que permiten la libre expresión, fichas con pictogramas que permiten al usuario la facil asimilación de significado/significante. Elaborado por: David Felipe Sanchez
 
 Link del Material: ([Material])
+
+![Diario]({{ site.baseurl }}/assets/images/Unknown-4)
 
 ## Voces Otras en Nosotros
 
@@ -45,12 +49,16 @@ Esta cartilla tiene como proposito visibilisar y concientizar por medio de tres 
 
 Link de la cartilla: ([Cartilla])
 
+![voces]({{ site.baseurl }}/assets/images/Unknown-3)
+
 ## Eclipse 
 
 Va dirigido a las personas neurodivergentes, a los caminantes que viven con bipolaridad, al espectador, cuya mirada, termina y completa la obra. Pero sobre todo, a la estoica y eclipsada Ilda. Desde las profundidades lacustres de mi consciencia.
 Elaborado por: Julieta Valencia
 
 Link de la paguina: ([Pagina])
+
+![Eclipse]({{ site.baseurl }}/assets/images/Unknown-8)
 
 <!-- Link Melocotones sin moretones-->
 [Melon]: https://drive.google.com/open?id=1FJl5HhCThLNK2yLewhTdDNADsXh8LZY1
