@@ -82,7 +82,7 @@ Este blog ofrece una colección de audio libros compuesta por 3 narrativas cuyo 
 
 Link del Blog: ([blog])
 
-![Blog]({{ site.baseurl }}/assets/images/Unknown-11.jpeg)
+![Blog]({{ site.baseurl }}/assets/images/Unknown-15)
 
 ## Un acercamiento a la granja 
 
@@ -90,7 +90,7 @@ El tener un acercamiento a espacios u experiencias nuevas puede ser un activador
 
 Link Cartilla: ([Cartilla sensorial])
 
-![Cartila sensorial]({{ site.baseurl }}/assets/images/Unknown-12.jpeg)
+![Cartila sensorial]({{ site.baseurl }}/assets/images/Unknown-16)
 
 ## Comecocos 
 
@@ -99,13 +99,15 @@ En el marco de la formación y labor docente es muy importante conocer las diver
 link del juego: ([Comecocos])
 Vídeo instructivo: ([instructivo])
 
+![Comecocos]({{ site.baseurl }}/assets/images/Unknown-13)
+
 ## Fanzine 
 
 Teniendo en cuenta que el reconocimiento de la diferencia dentro del campo de la neurodiversidad y el ampliar las concepciones que hay en torno a la neurodivergencia son necesarios en los diferentes contextos en los que estamos , se hace uso del fanzine como herramienta que permita apreciar estos elementos de una forma sencilla. Elaborado por: Windy Johana Solano Mora y Camila Andrea Amaya Barrios
 
 Link fanzine: ([Fanzine])
 
-![fanzine]({{ site.baseurl }}/assets/images/Unknown-12)
+![fanzine]({{ site.baseurl }}/assets/images/Unknown-14)
 
 <!-- Link Melocotones sin moretones-->
 [Melon]: https://drive.google.com/open?id=1FJl5HhCThLNK2yLewhTdDNADsXh8LZY1
